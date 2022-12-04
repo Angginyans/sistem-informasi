@@ -1,2 +1,2 @@
 # sistem-informasi
-Rancangan Sistem Informasi Tiket Pesawat Kel 6
+Maaf file dipindahkan pada repository yang lain
